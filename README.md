@@ -1,4 +1,4 @@
-# Buvaneshkumar - Java Full Stack Developer Portfolio
+# Buvaneshkumar c - Java Full Stack Developer Portfolio
 
 A modern, responsive portfolio website built with React.js and Vite, showcasing my skills as a Java Full Stack Developer and technical writer.
 
