@@ -5,7 +5,7 @@ import { Briefcase, Calendar, MapPin, Award, TrendingUp } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
-      title: "Junior Developer",
+      title: "Junior Software Engineer",
       company: "HEPL - A Cavinkare Group",
       location: "Chennai, India",
       period: "2023 - Present",
